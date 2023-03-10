@@ -1,4 +1,5 @@
 # React and Firebase Chat App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/716f9de3-a659-4881-a92f-a96676942b15/deploy-status)](https://app.netlify.com/sites/sparkly-puffpuff-805fb4/deploys)
 
 This is the project code for [my tutorial on LogRocket](https://blog.logrocket.com/how-to-build-chatroom-app-react-firebase/).
 
